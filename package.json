@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@tensorflow/tfjs": "^4.22.0",
-    "@tensorflow/tfjs-react-native": "^1.0.0",
-    "react-native-fs": "^2.20.0"
-  }
-}
